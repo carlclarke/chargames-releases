@@ -6,8 +6,8 @@ Character-based games for your desktop and browser.
 
 A falling-block puzzle game drawn entirely with text characters.
 
-[Play in your browser](https://carlclarke.github.io/chargames-fall/play/) |
-[Download Fall](https://carlclarke.github.io/chargames-fall/)
+[Play in your browser](https://chargames.com) |
+[Download Fall](https://chargames.com)
 
 Downloads are available for Windows, macOS and Linux.
 
@@ -15,7 +15,7 @@ Fall is an early prototype. Features and presentation may change.
 
 ## Downloads
 
-Visit the [download page](https://carlclarke.github.io/chargames-fall/) to choose
+Visit [chargames.com](https://chargames.com) to choose
 the right download for your computer, or browse the
 [releases](https://github.com/carlclarke/chargames-releases/releases) for earlier
 versions and previews.
