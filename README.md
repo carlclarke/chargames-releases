@@ -9,9 +9,16 @@ A falling-block puzzle game drawn entirely with text characters.
 [Play in your browser](https://chargames.com) |
 [Download Fall](https://chargames.com)
 
+## Sol
+
+Klondike solitaire drawn entirely with text characters.
+
+[Play in your browser](https://chargames.com) |
+[Download Sol](https://chargames.com)
+
 Downloads are available for Windows, macOS and Linux.
 
-Fall is an early prototype. Features and presentation may change.
+Fall and Sol are early prototypes. Features and presentation may change.
 
 ## Downloads
 
