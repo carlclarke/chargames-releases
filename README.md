@@ -60,3 +60,27 @@ versions and previews.
 The downloads are not yet signed. Windows or macOS may show a warning when
 opening them. Only proceed if you trust the download; do not turn off your
 computer's security protections.
+
+<!-- BEGIN below -->
+## Below
+
+A zero-g arcade salvage & physics game drawn entirely with text characters.
+Pilot the Bug-4 salvage pod beneath an active game of Fall, tether drifting
+block debris and feed ceiling suction chutes to assemble tetrominoes.
+
+[Play in your browser](https://chargames.com) |
+[Download Below](https://chargames.com)
+
+Below is an early prototype for Windows, macOS and Linux.
+Features and presentation may change.
+
+### Below downloads
+
+Visit [chargames.com](https://chargames.com) or browse the
+[releases](https://github.com/carlclarke/chargames-releases/releases)
+for versions and previews.
+
+Downloads are not yet signed. Windows or macOS may show a warning when opening
+them. Only proceed if you trust the download; do not turn off your computer's
+security protections.
+<!-- END below -->
