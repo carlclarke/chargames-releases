@@ -108,3 +108,27 @@ The downloads are not yet signed. Windows or macOS may show a warning when
 opening them. Only proceed if you trust the download; do not turn off your
 computer's security protections.
 <!-- END snake -->
+
+<!-- BEGIN video -->
+## Video
+
+A multiplatform character-cell video player drawn entirely with text characters.
+
+[Open in your browser](https://chargames.com/games/video/play/) |
+[Download Video](https://chargames.com/games/video/)
+
+Downloads are available for Windows, macOS and Linux.
+
+Video is an early alpha release. Features and presentation may change.
+
+### Video downloads
+
+Visit [chargames.com](https://chargames.com) to choose
+the right download for your computer, or browse the
+[releases](https://github.com/carlclarke/chargames-releases/releases) for earlier
+versions and previews.
+
+The downloads are not yet signed. Windows or macOS may show a warning when
+opening them. Only proceed if you trust the download; do not turn off your
+computer's security protections.
+<!-- END video -->
