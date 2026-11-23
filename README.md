@@ -132,3 +132,27 @@ The downloads are not yet signed. Windows or macOS may show a warning when
 opening them. Only proceed if you trust the download; do not turn off your
 computer's security protections.
 <!-- END video -->
+
+<!-- BEGIN audio -->
+## Audio
+
+A compact, hi-fi deck–inspired character-cell audio player drawn entirely with text characters.
+
+[Open in your browser](https://chargames.com/games/audio/play/) |
+[Download Audio](https://chargames.com/games/audio/)
+
+Downloads are available for Windows, macOS and Linux.
+
+Audio is an early alpha release. Features and presentation may change.
+
+### Audio downloads
+
+Visit [chargames.com](https://chargames.com) to choose
+the right download for your computer, or browse the
+[releases](https://github.com/carlclarke/chargames-releases/releases) for earlier
+versions and previews.
+
+The downloads are not yet signed. Windows or macOS may show a warning when
+opening them. Only proceed if you trust the download; do not turn off your
+computer's security protections.
+<!-- END audio -->
