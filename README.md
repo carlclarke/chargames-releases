@@ -156,3 +156,27 @@ The downloads are not yet signed. Windows or macOS may show a warning when
 opening them. Only proceed if you trust the download; do not turn off your
 computer's security protections.
 <!-- END audio -->
+
+<!-- BEGIN ping -->
+## Ping
+
+A modern single-player character-cell arcade paddle game drawn entirely with text characters.
+
+[Play in your browser](https://chargames.com) |
+[Download Ping](https://chargames.com)
+
+Downloads are available for Windows, macOS and Linux.
+
+Ping is an early alpha release. Features and presentation may change.
+
+### Ping downloads
+
+Visit [chargames.com](https://chargames.com) to choose
+the right download for your computer, or browse the
+[releases](https://github.com/carlclarke/chargames-releases/releases) for earlier
+versions and previews.
+
+The downloads are not yet signed. Windows or macOS may show a warning when
+opening them. Only proceed if you trust the download; do not turn off your
+computer's security protections.
+<!-- END ping -->
